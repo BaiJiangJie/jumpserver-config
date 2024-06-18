@@ -8,12 +8,13 @@ version: "v4.0"
 
 ### SECRET_KEY
 
-```
 默认值: '' (空字符串)
-```
 
 [Django 文档](https://docs.djangoproject.com/en/5.0/ref/settings/#secret-key)
 
+> \[!IMPORTANT]
+>
+> **Star Us**, You will receive all release notifications from GitHub without any delay \~ ⭐️
 
 ### BOOTSTRAP_TOKEN
 ### DEBUG
